@@ -16,5 +16,5 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="4282076035858746641">"Safety &amp; regulatory information"</string>
+    <string name="app_name" msgid="4282076035858746641">"Безопасност и нормативни изисквания"</string>
 </resources>
