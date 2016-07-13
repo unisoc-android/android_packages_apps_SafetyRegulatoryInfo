@@ -13,6 +13,6 @@
      limitations under the License.
 -->
 <resources>
-    <!-- Name of the app, which shows safety and regulatory information [CHAR LIMIT=50] -->
-    <string name="app_name">Safety &amp; regulatory information</string>
+    <!-- Name of the app, which shows the safety and regulatory manual [CHAR LIMIT=50] -->
+    <string name="app_name">Safety &amp; regulatory manual</string>
 </resources>
